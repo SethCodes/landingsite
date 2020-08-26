@@ -1,0 +1,26 @@
+/* stock settings */
+h1 {
+  color: #63b7af;
+  text-shadow: none;
+}
+
+.blue {
+  background-color: #abf0e9;
+}
+
+.avatar-img {
+  border-radius: 50%;
+  height: auto;
+  width: 200px;
+  margin-top: 30px;
+}
+
+Button {
+  width: 300px;
+  text-shadow: none;
+  color: black;
+}
+Button:hover {
+  background-color: #fff;
+  color: #000000;
+}

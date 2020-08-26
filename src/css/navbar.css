@@ -1,0 +1,40 @@
+navigation bar
+#navbar a {
+    color: #fff;
+    border: none;
+  }
+  .navbar {
+    padding: 0 0 0.5rem;
+  }
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  #header button {
+    color: #fff;
+    background-color: #fff;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-item a {
+    border: none;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: 400;
+    /* border: none; */
+    color: #fff;
+  }
+  
+  .navbar .nav-link {
+    /* border: 0px; */
+  
+    border-left: 20px solid;
+    border-right: none;
+  }

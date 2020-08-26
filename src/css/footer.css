@@ -1,0 +1,25 @@
+/* footer section  */
+.footer {
+    text-align: center;
+    padding: 50px;
+    text-align: center;
+  }
+  .footer p {
+  margin-top: 20px;
+  }
+  
+  .link-box {
+    height: 100px;
+    width: 100px;
+  }
+  
+  .social-icon {
+    margin: 20px 10px;
+  }
+  
+  .arrow {
+    margin-bottom: 50px;
+  }
+  .arrow:hover {
+    color: #fff;
+  }

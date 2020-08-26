@@ -1,0 +1,30 @@
+/* Contact form */
+#contact {
+    padding: 20px;
+    background-color: white;
+    margin: 7% 20%;
+    border: none;
+    border-radius: 10px;
+  }
+  .contact-h1 {
+    text-align: center;
+  }
+  
+  .form-bg {
+    background-color: white;
+  }
+  #contact .btn-outline-primary {
+    color: #abf0e9;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-shadow: none;
+  }
+  #contact .btn-outline-primary:hover {
+    color: #fff;
+    background-color: #ee8572;
+  }
+  .contact-h1 {
+    text-shadow: none;
+  }
+  
+ 
